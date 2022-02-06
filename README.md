@@ -1,4 +1,4 @@
-# hola-mundo
+# Hola Mundo
 Primer repositorio Taller Git
 
 Autor: Alejandro SC
